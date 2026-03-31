@@ -89,7 +89,7 @@ Real-time disease detection in sugarcane crops using a drone-mounted camera and 
 
 ▶ [Video 2](https://youtube.com/shorts/ynZ7JyUP72Y)
 
-▶ [Video 3](https://youtube.com/shorts/ynZ7JyUP72Y)
+▶ [Video 3](https://youtube.com/shorts/tjZp4zSO4pg?feature=share)
 
 ---
 
