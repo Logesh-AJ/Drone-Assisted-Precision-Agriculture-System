@@ -1,0 +1,15 @@
+### 🌿 Sugarcane Disease Detection Demo  
+
+Real-time disease detection in sugarcane crops using a drone-mounted camera and YOLOv8 running on edge hardware (Raspberry Pi). The system detects infected regions and displays bounding boxes with confidence scores directly from aerial imagery.
+
+▶ [Watch Disease Detection Demo 1](https://youtu.be/bPbi8MC6L2Y)  
+
+This demo showcases detection under real field conditions, where the model identifies disease-affected leaf regions and minimizes background noise using preprocessing techniques.
+
+▶ [Watch Disease Detection Demo 2](https://youtube.com/shorts/ynZ7JyUP72Y)  
+
+A short demonstration of fast inference with bounding box predictions on live or recorded frames, highlighting the responsiveness of the detection pipeline.
+
+▶ [Watch Disease Detection Demo 3](https://youtube.com/shorts/ynZ7JyUP72Y)  
+
+Additional testing showing detection consistency across different viewing angles and lighting conditions.
