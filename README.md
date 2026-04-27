@@ -159,7 +159,7 @@ Drone-Assisted-Precision-Agriculture-System/
 This work is published in IEEE conference (ICVTTS 2025).
 
 👉 View details:
-`paper_link.md`
+[paper_link](https://ieeexplore.ieee.org/document/11296538)
 
 ---
 
